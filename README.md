@@ -1,0 +1,1 @@
+These are the slides from my presentation, "Continuous Integration when Infrastructure is the Product," first given at PuppetConf 2012.
